@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c231e7f30beb4a84480b4652ae3c246c
+  - enabled: 1
+    path: Assets/Scenes/Choose.unity
+    guid: 10044edbfea7939458d79a70825e893f
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 64c8487cf3ceb4cbbb88804319d21448
+  - enabled: 1
+    path: Assets/Scenes/SlimePit.unity
+    guid: 026b9a47e34fd497da52367984b463a0
+  - enabled: 1
+    path: Assets/Scenes/GolemPit.unity
+    guid: c5a347271b44b5347a26c8c93c258685
+  - enabled: 1
+    path: Assets/Scenes/UsBossesPit.unity
+    guid: 8b5b9f01d6984d540ad547b1640049ee
+  - enabled: 1
+    path: Assets/Scenes/FinishScene.unity
+    guid: 26a31b3dae11f9a429464f005b299b6f
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 272dd471a4d744f8f9706c0f4f0f0ccd
+  m_configObjects: {}

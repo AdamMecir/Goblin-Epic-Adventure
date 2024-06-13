@@ -1,0 +1,4 @@
+repository "Goblin Epic Adventure@Haasicak@cloud"
+  path "/"
+    br "/main"
+    co "/main"

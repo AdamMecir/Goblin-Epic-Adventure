@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Teleport
+  - GameManager
+  - SpawnPoint
+  - MinionSpawn2
+  - PravyHorny
+  - MinionSpawn1
+  - PravyDolny
+  - LavyDolny
+  - MinionSpawn6
+  - LavyHorny
+  - MinionSpawn5
+  - MiddlePoint
+  - MinionSpawn4
+  - MinionSpawn3
+  - HealthBar
+  - HealthBarBoss
+  - BoblinTextField
+  - BoblinText
+  - SceneManager
+  - Ploska
+  - Minion
+  - HealthBarMinion
+  - Bariera
+  - Sip
+  - NPC
+  - stena
+  - BOSS
+  - PushStone
+  - Kamen
+  - HurtStone
+  - HealthBarBossAdam
+  - HealthBarBossKika
+  - HealthBarBossPalo
+  - HealthBarBossLukas
+  - lizatko
+  - USSTONE
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
